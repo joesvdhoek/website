@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
-<title>HTML Tutorial</title>
+<head>
+<title>Page Title</title>
+</head>
 <body>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+<h1>WEBSITE ABOUT JOES VAN DEN HOEK</h1>
+<p>MY SOCIAL MEDIA</p>
 
 </body>
 </html>
