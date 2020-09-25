@@ -1,25 +1,10 @@
-<!DOCTYPE html> <html lang="nl"> 
+<!DOCTYPE html>
+<html>
+<title>HTML Tutorial</title>
+<body>
 
-     <head> 
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
 
-           <title>sjabloon</title> 
-
-           <meta charset="utf-8"> 
-
-           <link rel="stylesheet" href="css/opmaak.css"> 
-
-     </head> 
-
-     <body> 
-
-     </body> 
-
-     <p> 
-
-         WELKOM BIJ DE WEBSITE VAN JOES VAN DEN HOEK    </p> 
-
-    <h3>NAAM:</h3> 
-
-    </h1> 
-
-</html> 
+</body>
+</html>
